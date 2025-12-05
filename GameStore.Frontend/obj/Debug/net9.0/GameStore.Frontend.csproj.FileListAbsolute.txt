@@ -32,3 +32,4 @@
 /home/sergio/Desktop/src/gameStore/GameStore.Frontend/obj/Debug/net9.0/GameStore.Frontend.pdb
 /home/sergio/Desktop/src/gameStore/GameStore.Frontend/obj/Debug/net9.0/GameStore.Frontend.genruntimeconfig.cache
 /home/sergio/Desktop/src/gameStore/GameStore.Frontend/obj/Debug/net9.0/ref/GameStore.Frontend.dll
+/home/sergio/Desktop/src/gameStore/GameStore.Frontend/obj/Debug/net9.0/GameStore.Frontend.sourcelink.json
